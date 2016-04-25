@@ -1,5 +1,5 @@
 # rapsheet
 
-A site that allows you to see if a song is consius or not. 
+A site that allows you to see if a song is conscious or not. 
 
 Written in Python with Flask.
